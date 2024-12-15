@@ -1,0 +1,30 @@
+{
+  "name": "dent",
+  "version": "1.0.0",
+  "description": "An Open Source Social Media",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jailmaxxing/dent.git"
+  },
+  "keywords": [
+    "social",
+    "media",
+    "github",
+    "dent"
+  ],
+  "author": "jailmaxxing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jailmaxxing/dent/issues"
+  },
+  "homepage": "https://github.com/jailmaxxing/dent#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "path": "^0.12.7"
+  }
+}
